@@ -1,7 +1,7 @@
 public class InsuranceStrategyLow extends InsuranceStrategy {
     @Override
     public int getConstant() {
-        return 1;
+        return 0;
     }
 
     @Override
